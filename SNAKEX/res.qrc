@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>bgm.mp3</file>
+        <file>roarB.mp3</file>
+        <file>button.mp3</file>
+        <file>death.mp3</file>
+        <file>dig.mp3</file>
+        <file>eat.mp3</file>
+        <file>born.mp3</file>
+        <file>roar.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>bgi.PNG</file>
+        <file>dessG.PNG</file>
+        <file>dungG.PNG</file>
+        <file>foreG.PNG</file>
+        <file>snowG.PNG</file>
+        <file>dessB.png</file>
+        <file>dungB.png</file>
+        <file>foreB.png</file>
+        <file>snowB.png</file>
+    </qresource>
+</RCC>
